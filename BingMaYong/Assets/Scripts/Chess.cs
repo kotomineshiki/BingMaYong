@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Chess : MonoBehaviour {
-
+    public Side chessSide;
 	// Use this for initialization
 	void Start () {
 		
